@@ -1,5 +1,5 @@
-<p>Greetings from footer.php</p>
+<p>here is the footer!</p>
 
-<?php wp_footer(); ?>
+<?php wp_footer();?>
 </body>
 </html>
