@@ -1,1 +1,7 @@
-<h1>hello</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <?php wp_head(); ?>
+  </head>
+  <body>
+    <h1>Fictional University</h1>

@@ -1,5 +1,9 @@
 /*
-    Theme Name: Fictional University WIP
-    Author: Eric Chuderewicz
-    Version: 1.0
+ Theme Name: Fictional University
+ Author: Eric Chuderewicz
+ Version: 1.0
 */
+
+body {
+  color: blue;
+}
